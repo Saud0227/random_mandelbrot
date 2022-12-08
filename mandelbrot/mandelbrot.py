@@ -1,4 +1,4 @@
-max_iter = 180
+max_iter = 80
 
 
 def mandelbrot(c):

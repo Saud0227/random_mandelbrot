@@ -8,11 +8,11 @@ shift_x = -1 + 0.020
 shift_y = -0.310
 scaler = 150
 
-# sc_width = 600
-# sc_height = 400
-# shift_x = 0
-# shift_y = 0
-# scaler = 1
+# sc_width = 100
+# sc_height = 100
+# shift_x = -0.2
+# shift_y = -0.2
+# scaler = 8
 
 
 # Plot window
